@@ -1,5 +1,7 @@
 # 📚 exam-quiz-app
 
+**简体中文** | [English](README.en.md)
+
 > 期末周人类续命工具 —— 一个让 Claude 帮你把复习资料变成刷题软件的 Skill。
 
 老师发来 80 页 PPT，说“重点都在里面了”。
@@ -88,7 +90,8 @@ exam-quiz-app/
 ├── exam-quiz-app/
 │   └── SKILL.md          # 技能本体：流程、出题原则、功能清单
 ├── exam-quiz-app.zip     # 打包好的 Skill，可直接上传
-└── README.md             # 你正在看的这个
+├── README.md             # 你正在看的这个
+└── README.en.md          # 英文版说明
 ```
 
 ---
