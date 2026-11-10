@@ -21,6 +21,7 @@
 | 💡 每题都有解析 | 选择题告诉你为什么选、别的选项错在哪；计算题从“这是个啥”讲起 |
 | 🧮 零基础详解 | 专为“上课在听，但没听懂”的同学设计：概念白话 → 分步算式 → 必背公式 |
 | 🎯 简答题采分点 | 长篇答案压缩成加粗关键词，背得下来才是好答案 |
+| 🃏 练题 / 背题模式 | 像背单词一样一屏一题：错题隔 3 题再考你，答对后隔 8 题再确认一次，一次就对的直接毕业。背题模式先看答案再默写 |
 | ❌ 错题本 | 做错自动收录，做对自动移出，比你记得清楚 |
 | 🔍 搜题 | `Ctrl/⌘ + K` 搜关键词，考前十分钟找题神器 |
 | 📊 章节掌握度 | 每章刷了多少一目了然，自我欺骗难度 +100% |
@@ -36,7 +37,7 @@
 | --- | --- |
 | `Ctrl/⌘ + Enter` | 显示答案，再按一次下一题 |
 | `1` – `5` | 选择题直接选 |
-| `Enter` | 下一题 / 跳到下一个空 / 提交多选 |
+| `Enter` / `→` | 下一题 / 跳到下一个空 / 提交多选 |
 | `Ctrl/⌘ + K` | 打开搜题 |
 | `Shift + Enter` | 简答题换行 |
 
@@ -137,6 +138,7 @@ This Skill is built for that moment. Hand Claude your slides, PDFs, Word docs or
 | 💡 Explanations for every question | Multiple choice explains why the answer is right *and* why the others are wrong; calculations start from "what even is this" |
 | 🧮 Zero-background walkthroughs | For students who attended every lecture and understood none of them: plain-language concept → step-by-step working → formulas to memorize |
 | 🎯 Short-answer scoring points | Long model answers condensed into bold keywords. An answer you can't memorize isn't a good answer |
+| 🃏 Drill & Learn modes | Flashcard-style, one question per screen: a miss comes back 3 questions later, a fixed miss returns once more 8 questions later, and first-try hits graduate immediately. Learn mode shows the answer first, then makes you recall it |
 | ❌ Mistake notebook | Wrong answers are saved automatically and removed once you get them right. It remembers better than you do |
 | 🔍 Search | `Ctrl/⌘ + K` to search questions, options and answers — perfect for the last ten minutes before the exam |
 | 📊 Chapter mastery | See how far along you are in each chapter. Self-deception difficulty: +100% |
@@ -152,7 +154,7 @@ This Skill is built for that moment. Hand Claude your slides, PDFs, Word docs or
 | --- | --- |
 | `Ctrl/⌘ + Enter` | Reveal the answer; press again for the next question |
 | `1` – `5` | Pick an option |
-| `Enter` | Next question / next blank / submit a multi-select |
+| `Enter` / `→` | Next question / next blank / submit a multi-select |
 | `Ctrl/⌘ + K` | Open search |
 | `Shift + Enter` | New line in short-answer mode |
 
