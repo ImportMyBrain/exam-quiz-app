@@ -25,6 +25,8 @@
 | ❌ 错题本 | 做错自动收录，做对自动移出，比你记得清楚 |
 | 🔍 搜题 | `Ctrl/⌘ + K` 搜关键词，考前十分钟找题神器 |
 | 📊 章节掌握度 | 每章刷了多少一目了然，自我欺骗难度 +100% |
+| 🔮 考试预测 | 根据你的练习记录估算能考几分、能不能过，还告诉你哪类题提分最快。准不准另说，扎心是真的 |
+| 🎨 外观切换 | 白天、黑夜、护眼米黄、樱花粉、黑黄撞色……总有一款让你愿意多刷两题 |
 | 🧪 模拟考试 | 原题随机组卷、计时、交卷自动判分，提前体验分数带来的冲击 |
 | 🎲 额外练习 | 按原题型随机出数字的同类题，并且老实标明“不是原题” |
 | 📱 手机 / 深色模式 | 床上刷、地铁刷、凌晨三点关灯刷 |
@@ -142,6 +144,8 @@ This Skill is built for that moment. Hand Claude your slides, PDFs, Word docs or
 | ❌ Mistake notebook | Wrong answers are saved automatically and removed once you get them right. It remembers better than you do |
 | 🔍 Search | `Ctrl/⌘ + K` to search questions, options and answers — perfect for the last ten minutes before the exam |
 | 📊 Chapter mastery | See how far along you are in each chapter. Self-deception difficulty: +100% |
+| 🔮 Pass predictor | Estimates your score and whether you will pass based on your practice record, and points to the fastest way to gain points. Accuracy debatable; emotional damage guaranteed |
+| 🎨 Themes | Light, dark, sepia, sakura pink, black-and-yellow… one of them will make you want to do two more questions |
 | 🧪 Mock exam | Random papers built from the original questions, timed and auto-graded. Experience the score shock early |
 | 🎲 Extra practice | Same question types with randomized numbers, clearly labeled "not an original question" |
 | 📱 Mobile & dark mode | Study in bed, on the subway, or at 3 a.m. with the lights off |
